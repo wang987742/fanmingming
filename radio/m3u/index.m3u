@@ -47,29 +47,29 @@ http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188224840943.png" group-title="综合广播" radio="true",河南新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南新闻广播.png" group-title="综合广播" radio="true",河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188242717818.png" group-title="综合广播" radio="true",河南经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南经济广播.png" group-title="综合广播" radio="true",河南经济广播
 https://stream.hndt.com/live/jingji/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188256124151.png" group-title="综合广播" radio="true",河南交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南交通广播.png" group-title="综合广播" radio="true",河南交通广播
 https://stream.hndt.com/live/jiaotong/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/976.png" group-title="综合广播" radio="true",河南戏曲广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南戏曲广播.png" group-title="综合广播" radio="true",河南戏曲广播
 https://stream.hndt.com/live/yule/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/08/01/1501575231656489.png" group-title="综合广播" radio="true",河南音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南音乐广播.png" group-title="综合广播" radio="true",河南音乐广播
 https://stream.hndt.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188205425196.png" group-title="综合广播" radio="true",大象资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="综合广播" radio="true",大象资讯台
 https://stream.hndt.com/live/nongcun/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/07/31/1501465086750121.png" group-title="综合广播" radio="true",My Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/My%20Radio.png" group-title="综合广播" radio="true",My Radio
 https://stream.hndt.com/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/08/01/1501576834719710.png" group-title="综合广播" radio="true",私家车999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/私家车999.png" group-title="综合广播" radio="true",私家车999
 https://stream.hndt.com/live/sijiache/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2022/1/28/lADPJwY7RbgOnh3NB6vNCT4_2366_1963.jpg" group-title="综合广播" radio="true",河南教育广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南教育广播.jpg" group-title="综合广播" radio="true",河南教育广播
 https://stream.hndt.com/live/jiaoyu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188190569249.png" group-title="综合广播" radio="true",河南信息广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乐龄105.6.png" group-title="综合广播" radio="true",河南信息广播
 https://stream.hndt.com/live/leling/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/11/17/login.jpg" group-title="综合广播" radio="true",Big Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/Big%20Radio.jpg" group-title="综合广播" radio="true",Big Radio
 https://stream.hndt.com/live/gudian/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg" group-title="综合广播" radio="true",CRI环球资讯广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="综合广播" radio="true",CRI环球资讯广播
 https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
@@ -830,7 +830,7 @@ https://piccpndaili.v.myalicdn.com/audio/cctv15_2.m3u8
 https://piccpndaili.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/radio/cctv17.png" group-title="电视伴音",CCTV-17 农业农村
 https://piccpndaili.v.myalicdn.com/audio/cctv17_2.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/77c6a7efce1b9d16179c34ecfadeb48f8d5464e0.jpg" group-title="电视伴音",CGTN
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/cgtn.png" group-title="电视伴音",CGTN
 http://stream.zeno.fm/ambvmys65rquv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="电视伴音",CCTV新科动漫
 http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
