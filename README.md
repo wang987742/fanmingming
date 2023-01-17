@@ -20,7 +20,7 @@
 - 所有直播源均收集于互联网，内容仅供测试。
 - 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。
 - 本项目不保证所有直播源节目的有效性，直播内容可能受直播服务提供商因素影响而失效。
-- 通过M3U8 Player测试直播请使用https链接直播源，因主流浏览器对http协议的做了限制，故http直播链接无法播放。
+- 通过M3U8 Player测试直播请使用https链接直播源，因主流浏览器对http协议的做了限制http协议链接无法播放。
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
