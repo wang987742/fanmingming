@@ -97,7 +97,7 @@ rtsp://10.200.34.153:554/PLTV/88888912/224/3221226464/10000100000000060000000000
 rtsp://10.200.34.154:554/PLTV/88888912/224/3221226458/10000100000000060000000000871726_0.smil
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/guangxi.png" group-title="卫视",广西卫视[标清]
 rtsp://10.13.37.104:554/PLTV/88888912/224/3221226671/426211968.smil
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/guizhou.png" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/jilin.png" group-title="卫视",吉林卫视
 rtsp://10.13.37.99:554/PLTV/88888912/224/3221226664/382482468.smil
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="卫视",陕西卫视[标清]
 rtsp://10.13.37.105:554/PLTV/88888912/224/3221226677/426212062.smil
