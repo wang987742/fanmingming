@@ -9,8 +9,6 @@ rtsp://10.11.35.55:554/PLTV/88888912/224/3221226422/1000010000000006000000000080
 rtsp://10.11.33.81:554/PLTV/88888912/224/3221226450/10000100000000060000000000870191_0.smil
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
 rtsp://10.11.35.59:554/PLTV/88888912/224/3221226423/10000100000000060000000000808427_0.smil
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-rtsp://10.11.35.56:554/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
 rtsp://10.200.34.155:554/PLTV/88888912/224/3221226426/10000100000000060000000000808425_0.smil
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
@@ -125,6 +123,8 @@ rtsp://10.13.37.120:554/PLTV/88888912/224/3221226655/426212008.smil
 rtsp://10.11.33.82:554/PLTV/88888912/224/3221226638/394108021.smil
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际美洲
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226642/394108651.smil
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
+rtsp://10.11.35.56:554/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
 #EXTINF:-1 tvg-id="" tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
