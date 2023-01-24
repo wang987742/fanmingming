@@ -7,6 +7,8 @@
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 
+- 🏙️包头联通IPTV直播源(内网)[https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
+
 ## 🛠️工具
 > 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
 
@@ -24,5 +26,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.1.23
-> 添加了内蒙古[包头联通IPTV直播源](https://live.fanmingming.com/tv/m3u/btcu.m3u)(内网)
+- 2023.1.24
+> 去掉了重复的频道，将IPV6源替换为了精简源。
