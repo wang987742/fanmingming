@@ -3,10 +3,10 @@
 <h3 align="center">🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
-- 📺IPTV(IPV6专用)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
+- 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
-- 🏙️包头联通IPTV直播源(内网)[https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
+- 🏙️包头联通IPTV(内网)[https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
 
 ## 🛠️工具
 > 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
