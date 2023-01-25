@@ -31,27 +31,27 @@ rtsp://10.11.35.56:554/PLTV/88888912/224/3221226456/1000010000000006000000000087
 rtsp://10.11.33.81:554/PLTV/88888912/224/3221226103/10000100000000060000000000719621_0.smil
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 rtsp://10.13.37.108:554/PLTV/88888912/224/3221226654/394801661.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古蒙语
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古蒙语" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古蒙语
 rtsp://10.11.35.59:554/PLTV/88888912/224/3221226086/10000100000000060000000000663216_0.smil
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="卫视",内蒙古卫视
 rtsp://10.11.35.60:554/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古蒙语2
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古蒙语2" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古蒙语2
 rtsp://10.13.37.107:554/PLTV/88888912/224/3221226110/10000100000000060000000000784889_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古新闻综合
 rtsp://10.13.37.116:554/PLTV/88888912/224/3221226109/10000100000000060000000000784890_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古经济生活
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古经济生活
 rtsp://10.13.37.113:554/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古文体娱乐
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古文体娱乐
 rtsp://10.13.37.117:554/PLTV/88888912/224/3221226111/10000100000000060000000000784888_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古农牧频道
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古农牧频道
 rtsp://10.13.37.108:554/PLTV/88888912/224/3221226112/10000100000000060000000000784887_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古少儿频道
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="地方",内蒙古少儿频道
 rtsp://10.13.37.113:554/PLTV/88888912/224/3221226108/10000100000000060000000000784891_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头新闻综合
 rtsp://10.13.37.109:554/PLTV/88888912/224/3221226577/10000100000000060000000001125938_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头生活服务
+#EXTINF:-1 tvg-id="" tvg-name="包头生活服务" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头生活服务
 rtsp://10.13.37.118:554/PLTV/88888912/224/3221226600/10000100000000060000000001125937_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头经济频道
+#EXTINF:-1 tvg-id="" tvg-name="包头经济频道" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头经济频道
 rtsp://10.11.35.60:554/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="卫视",湖南卫视
 rtsp://10.13.37.99:554/PLTV/88888912/224/3221226449/10000100000000060000000000871723_0.smil
@@ -117,17 +117,15 @@ rtsp://10.13.37.104:554/PLTV/88888912/224/3221226714/426211976.smil
 rtsp://10.13.37.115:554/PLTV/88888912/224/3221226626/382482472.smil
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/bingtuan.png" group-title="卫视",兵团卫视[标清]
 rtsp://10.13.37.105:554/PLTV/88888912/224/3221226706/426211984.smil
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN[标清]
-rtsp://10.13.37.120:554/PLTV/88888912/224/3221226655/426212008.smil
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4中文国际欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
 rtsp://10.11.33.82:554/PLTV/88888912/224/3221226638/394108021.smil
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际美洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4中文国际美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际美洲
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226642/394108651.smil
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
-#EXTINF:-1 tvg-id="" tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
+#EXTINF:-1 tvg-id="" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记实
 rtsp://10.11.33.84:554/PLTV/88888912/224/3221226619/394108649.smil
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226676/394108020.smil
@@ -139,16 +137,18 @@ rtsp://10.11.33.82:554/PLTV/88888912/224/3221226646/394108011.smil
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226650/394108007.smil
 #EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/shanghaijishi.png" group-title="其他",纪实人文
 rtsp://10.13.37.119:554/PLTV/88888912/224/3221226489/10000100000000060000000001119244_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1[标清]
+rtsp://10.13.37.112:554/PLTV/88888912/224/3221226698/426212016.smil
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="其他",CETV2[标清]
+rtsp://10.11.35.56:554/PLTV/88888912/224/3221226050/10000100000000060000000000660100_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4[标清]
 rtsp://10.13.37.100:554/PLTV/88888912/224/3221226437/10000100000000060000000000834035_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="其他",山东教育卫视[标清]
+rtsp://10.13.37.111:554/PLTV/88888912/224/3221226752/426211906.smil
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/kaku.png" group-title="其他",卡酷少儿[标清]
 rtsp://10.13.37.121:554/PLTV/88888912/224/3221226651/426212078.smil
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/jinyingkatong.png" group-title="其他",金鹰卡通[标清]
 rtsp://10.13.37.121:554/PLTV/88888912/224/3221226716/426212012.smil
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1[标清]
-rtsp://10.13.37.112:554/PLTV/88888912/224/3221226698/426212016.smil
-#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="其他",山东教育卫视[标清]
-rtsp://10.13.37.111:554/PLTV/88888912/224/3221226752/426211906.smil
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/jiajiakt.png" group-title="其他",嘉佳卡通[标清]
 rtsp://10.13.37.117:554/PLTV/88888912/224/3221226704/394902423.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/youxifengyun.png" group-title="其他",游戏风云[标清]
@@ -159,8 +159,6 @@ rtsp://10.11.35.56:554/PLTV/88888912/224/3221226061/1000010000000006000000000066
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226059/10000100000000060000000000660271_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",精选[标清]
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226065/10000100000000060000000000661884_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="其他",CETV2[标清]
-rtsp://10.11.35.56:554/PLTV/88888912/224/3221226050/10000100000000060000000000660100_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场[标清]
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古蒙语" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="卫视",内蒙古蒙语[标清]
