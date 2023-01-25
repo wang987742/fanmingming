@@ -6,7 +6,6 @@
 - 📺IPTV(IPV6专用)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
-
 - 🏙️包头联通IPTV直播源(内网)[https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
 
 ## 🛠️工具
@@ -26,5 +25,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.1.24
-> 去掉了重复的频道，将IPV6源替换为了精简源。
+- 2023.1.25
+> 完善了IPV6源的一些细节，优化了包头联通IPTV内网源的细节以更好的识别EPG内容。
