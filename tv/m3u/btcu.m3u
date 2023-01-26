@@ -33,8 +33,8 @@ rtsp://10.11.33.81:554/PLTV/88888912/224/3221226103/1000010000000006000000000071
 rtsp://10.13.37.108:554/PLTV/88888912/224/3221226654/394801661.smil
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古蒙语卫视
 rtsp://10.11.35.59:554/PLTV/88888912/224/3221226086/10000100000000060000000000663216_0.smil
-#EXTINF:-1 tvg-name="内蒙古汉语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古汉语卫视
-rtsp://10.11.35.60:554/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古汉语卫视
+rtsp://10.11.35.55:554/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古蒙语文化
 rtsp://10.13.37.107:554/PLTV/88888912/224/3221226110/10000100000000060000000000784889_0.smil
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古新闻综合
@@ -163,7 +163,7 @@ rtsp://10.11.35.56:554/PLTV/88888912/224/3221226065/1000010000000006000000000066
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古蒙语卫视[标清]
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226085/10000100000000060000000000663203_0.smil
-#EXTINF:-1 tvg-name="内蒙古汉语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古汉语卫视[标清]
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古汉语卫视[标清]
 rtsp://10.11.35.55:554/PLTV/88888912/224/3221226081/10000100000000060000000000662884_0.smil
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古蒙语文化[标清]
 rtsp://10.11.35.55:554/PLTV/88888912/224/3221226087/10000100000000060000000000663218_0.smil
