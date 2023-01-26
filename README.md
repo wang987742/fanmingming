@@ -25,5 +25,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.1.25
-> 完善了IPV6源的一些细节，优化了包头联通IPTV内网源的细节以更好的识别EPG内容。
+- 2023.1.26
+> 完善了包头联通IPTV直播源的更多细节，去掉了tvg-id标签，以及台标URL的中文化。
