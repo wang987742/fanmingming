@@ -125,7 +125,7 @@ rtsp://10.11.33.83:554/PLTV/88888912/224/3221226642/394108651.smil
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
-#EXTINF:-1 tvg-name="CGTN纪实" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN纪实
+#EXTINF:-1 tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
 rtsp://10.11.33.84:554/PLTV/88888912/224/3221226619/394108649.smil
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226676/394108020.smil
