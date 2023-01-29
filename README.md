@@ -6,7 +6,7 @@
 - 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
-- 📡重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u)
+- 🆕重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u)
 - 🏙️包头联通IPTV(内网) [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
 
 ## 🛠️工具
