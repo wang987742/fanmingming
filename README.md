@@ -6,7 +6,8 @@
 - 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
-- 🏙️包头联通IPTV(内网)[https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
+- 📡重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u)
+- 🏙️包头联通IPTV(内网) [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
 
 ## 🛠️工具
 - 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
@@ -26,5 +27,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.1.26
-> 完善了包头联通IPTV直播源(内网)的更多细节，去掉了tvg-id标签，以及台标URL的中文化。
+- 2023.1.29
+> 增加了重庆广电的直播源，该源支持IPV6+IPv4公网双栈在线观看。
