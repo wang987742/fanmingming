@@ -27,5 +27,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.1.29
-> 增加了重庆广电的直播源，该源支持IPV6+IPv4公网双栈在线观看。
+- 2023.1.31
+> 直播源现已内置电子节目单。
