@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
