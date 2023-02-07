@@ -3,11 +3,11 @@
 <h3 align="center">🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
-- 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
-- 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
-- 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
-- 🆕重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u)
-- 🏙️包头联通IPTV(内网) [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u)
+- 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u) [pull](https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u)
+- 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u) [pull](https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u)
+- 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u) [pull](https://github.com/fanmingming/live/edit/main/radio/m3u/index.m3u)
+- 🆕重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u) [pull](https://github.com/fanmingming/live/edit/main/tv/m3u/cqccn.m3u)
+- 🏙️包头联通IPTV(内网) [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u) [pull](https://github.com/fanmingming/live/edit/main/tv/m3u/btcu.m3u)
 
 ## 🛠️工具
 - 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
@@ -27,5 +27,5 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2023.2.6
-> Globla源添加了CCTV5、CCTV8等频道。
+- 2023.2.7
+> 为了让项目可持续，您可点击直播源链接右侧的pull对失效的源链接进行修改并提交拉取请求。我们会在收到pull请求后对您提交的内容进行验证，通过后会自动发布并在此处为您署名。
