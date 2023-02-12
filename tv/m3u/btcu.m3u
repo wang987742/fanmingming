@@ -57,6 +57,14 @@ rtsp://10.13.37.107:554/PLTV/88888912/224/3221226577/100001000000000600000000011
 rtsp://10.13.37.109:554/PLTV/88888912/224/3221226600/10000100000000060000000001125937_0.smil
 #EXTINF:-1 tvg-name="包头经济频道" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头经济频道
 rtsp://10.11.35.55:554/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯新闻综合
+rtsp://10.11.35.56:554/PLTV/88888912/224/3221226624/10000100000000060000000001126373_0.smil
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯经济服务
+rtsp://10.11.35.57:554/PLTV/88888912/224/3221226591/10000100000000060000000001126372_0.smil
+#EXTINF:-1 tvg-name="鄂尔多斯城市生活" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯城市生活
+rtsp://10.11.35.58:554/PLTV/88888912/224/3221226628/10000100000000060000000001126371_0.smil
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语频道" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯蒙语频道
+rtsp://10.11.33.81:554/PLTV/88888912/224/3221226593/10000100000000060000000001126370_0.smil
 #EXTINF:-1 tvg-name="杭锦旗综合" tvg-logo="https://live.fanmingming.com/tv/杭锦旗综合.png" group-title="地方",杭锦旗综合
 rtsp://10.11.33.81:554/PLTV/88888912/224/3221226692/400889051.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
