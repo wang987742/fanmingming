@@ -135,6 +135,8 @@ rtsp://10.13.37.104:554/PLTV/88888912/224/3221226714/426211976.smil
 rtsp://10.13.37.115:554/PLTV/88888912/224/3221226626/382482472.smil
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视[标清]
 rtsp://10.13.37.105:554/PLTV/88888912/224/3221226706/426211984.smil
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视[标清]
+rtsp://10.13.37.101:554/PLTV/88888912/224/3221226768/433549663.smil
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
 #EXTINF:-1 tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
