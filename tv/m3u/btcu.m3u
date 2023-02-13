@@ -39,6 +39,18 @@ rtsp://10.11.33.82:554/PLTV/88888912/224/3221226638/394108021.smil
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226642/394108651.smil
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
+rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
+#EXTINF:-1 tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
+rtsp://10.11.33.84:554/PLTV/88888912/224/3221226619/394108649.smil
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
+rtsp://10.11.33.83:554/PLTV/88888912/224/3221226676/394108020.smil
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
+rtsp://10.11.33.84:554/PLTV/88888912/224/3221226625/394108015.smil
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
+rtsp://10.11.33.82:554/PLTV/88888912/224/3221226646/394108011.smil
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
+rtsp://10.11.33.83:554/PLTV/88888912/224/3221226650/394108007.smil
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古新闻综合
@@ -137,18 +149,6 @@ rtsp://10.13.37.115:554/PLTV/88888912/224/3221226626/382482472.smil
 rtsp://10.13.37.105:554/PLTV/88888912/224/3221226706/426211984.smil
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视[标清]
 rtsp://10.13.37.101:554/PLTV/88888912/224/3221226768/433549663.smil
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
-rtsp://10.11.33.83:554/PLTV/88888912/224/3221226615/394108645.smil
-#EXTINF:-1 tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
-rtsp://10.11.33.84:554/PLTV/88888912/224/3221226619/394108649.smil
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
-rtsp://10.11.33.83:554/PLTV/88888912/224/3221226676/394108020.smil
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
-rtsp://10.11.33.84:554/PLTV/88888912/224/3221226625/394108015.smil
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-rtsp://10.11.33.82:554/PLTV/88888912/224/3221226646/394108011.smil
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-rtsp://10.11.33.83:554/PLTV/88888912/224/3221226650/394108007.smil
 #EXTINF:-1tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",纪实人文
 rtsp://10.13.37.119:554/PLTV/88888912/224/3221226489/10000100000000060000000001119244_0.smil
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1[标清]
