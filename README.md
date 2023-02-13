@@ -7,7 +7,7 @@
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u)👈
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/radio/m3u/index.m3u)👈
 - 🆕重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/cqccn.m3u)👈
-- 🏙️包头联通IPTV(内网) [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/btcu.m3u)👈
+- 🏙️包头联通家宽IPTV [https://live.fanmingming.com/tv/m3u/btcu.m3u](https://live.fanmingming.com/tv/m3u/btcu.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/btcu.m3u)👈
 
 ## 🛠️工具
 - 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
@@ -29,4 +29,4 @@
 
 ## 📔最后更新
 - 2023.2.13
-> 包头联通IPTV源添加了三沙卫视。
+> 包头联通IPTV(内网)更名为包头联通家宽IPTV。经测试，在包头联通家宽网络下直播源可正常播放。另，直播源新增了三沙卫视。
