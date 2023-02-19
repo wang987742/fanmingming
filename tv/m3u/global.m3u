@@ -9,6 +9,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 http://39.135.138.59:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5+ 赛事
+http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 军事
